@@ -3,6 +3,7 @@
 🎸 **Quem sou eu?**
 - Um guitarrista apaixonado tecnologia e música.
 - Desenvolvedor de projetos criativos e games.
+- Estudante de Engenharia de Software - FIAP
 
 💻 **Habilidades**
 - Programação: Python, JavaScript, HTML/CSS.
