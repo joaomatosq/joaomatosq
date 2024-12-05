@@ -1,4 +1,4 @@
-# Olá! 👋
+# Hey!🤘
 
 🎸 **Quem sou eu?**
 - Um guitarrista apaixonado tecnologia e música.
